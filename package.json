@@ -1,5 +1,5 @@
 {
-  "name": "jquery-pjax",
+  "name": "@mizchi/jquery-pjax",
   "version": "1.9.6",
   "main": "jquery.pjax.js",
   "repository": "defunkt/jquery-pjax",
